@@ -4,6 +4,7 @@
   <test name="Test">
     <classes>
       <class name="com.jj.script.PaisaLoginModulePresent"/>
+      <class name="com.jj.script.PaisaLoginPageCheck"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
