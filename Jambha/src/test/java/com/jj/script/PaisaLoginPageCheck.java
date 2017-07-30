@@ -16,7 +16,7 @@ public class PaisaLoginPageCheck extends SupportScript
 		try
 		{
 			Assert.assertTrue(actualTitle.startsWith(expTitle));
-			Reporter.log("PaisaLoginPageCheck is pass", true);
+			Reporter.log("PaisaLoginPageCheck is ok", true);
 		}
 		catch(Exception e)
 		{
